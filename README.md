@@ -2,6 +2,7 @@
 A small program to create facemorph-gifs
 
 ![Me and my dad](https://github.com/KiruChaff/faceMorph/blob/master/C6C8B526-E2D5-451B-99D4-B929E90A8017.gif)
+
 *Me and my dad.*
 
 
